@@ -24,6 +24,7 @@
     "@nestjs/config": "^4.0.1",
     "@nestjs/core": "^11.0.1",
     "@nestjs/platform-express": "^11.0.1",
+    "ioredis": "^5.5.0",
     "rate-limiter-flexible": "^5.0.5",
     "redis": "^4.7.0",
     "reflect-metadata": "^0.2.2",
